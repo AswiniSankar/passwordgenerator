@@ -1,7 +1,7 @@
 # passwordgenerator
 generating password based on the input length using python.
 
-steps involved in password generator
+steps involved in password generator:
 1.import required module 
            1.random
            2.string
